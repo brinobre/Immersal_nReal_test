@@ -13,6 +13,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using TMPro;
+using NRKernal;
 
 namespace Immersal.Samples.Navigation
 {
