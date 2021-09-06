@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nrunityandroidpermission">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/NRSDK/Plugins/Android/nrunityandroidpermission.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
